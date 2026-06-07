@@ -46,7 +46,7 @@ lib/
 - Fade-in do logo "ORBITWATCH"
 - Navega automaticamente para `/intro` após 3 segundos
 
-![Splash Screen](images/primeira.png)
+![Splash Screen](primeira.png)
 ---
 
 ### 2. Intro Screen (Onboarding)
